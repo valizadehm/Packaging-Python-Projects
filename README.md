@@ -1,2 +1,8 @@
 # Packaging-Python-Projects
 This tutorial walks you through how to package a simple Python project. 
+
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
